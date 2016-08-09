@@ -69,3 +69,5 @@ tests/*/*/*.php
 tests/*/*/*.exp
 tests/*/*/*.sh
 tmp-php.ini
+/.cproject
+/.project
